@@ -12,6 +12,7 @@
 
 ## Languages and Tools:
 
+[<img src="https://github.com/AnnaGraceWelch/AnnaGraceWelch/assets/104738280/d325e987-86a4-422a-9949-72c64ac630bc" width="100" height="100">](https://www.python.org/)
 
 
 ## Key Bioinformatics Projects:
