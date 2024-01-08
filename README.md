@@ -12,7 +12,7 @@
 
 ## Languages and Tools:
 
-[<img src="https://github.com/AnnaGraceWelch/AnnaGraceWelch/assets/104738280/d325e987-86a4-422a-9949-72c64ac630bc" width="100" height="100">](https://www.python.org/)
+[<img src="https://github.com/AnnaGraceWelch/AnnaGraceWelch/assets/104738280/d325e987-86a4-422a-9949-72c64ac630bc" width="100" height="100">](https://www.python.org/) [<img src="https://github.com/AnnaGraceWelch/AnnaGraceWelch/assets/104738280/3bc9a94f-aa3a-4a66-9281-7b6dc543af1a" width="100" height="100">](https://www.gnu.org/software/bash/)
 
 
 ## Key Bioinformatics Projects:
