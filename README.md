@@ -5,13 +5,16 @@
 
 ## Social: 
 
-[[LinkedIn logo](https://github.com/AnnaGraceWelch/AnnaGraceWelch/assets/104738280/f3c10917-3f7b-4ef8-827d-e3c941a64231)](https://www.linkedin.com/in/annagracewelch/)
+[![LinkedIn logo](https://github.com/AnnaGraceWelch/AnnaGraceWelch/assets/104738280/f3c10917-3f7b-4ef8-827d-e3c941a64231)](https://www.linkedin.com/in/annagracewelch/)
 
 ## Key Bioinformatics Projects:
 
 [Bioinfo_Problems](https://github.com/AnnaGraceWelch/Bioinfo_Problems)
+
 [Demultiplex](https://github.com/AnnaGraceWelch/Demultiplex)
+
 [QAA](https://github.com/AnnaGraceWelch/QAA)
+
 [Deduper](https://github.com/AnnaGraceWelch/Deduper-AnnaGraceWelch)
 
 <!--
