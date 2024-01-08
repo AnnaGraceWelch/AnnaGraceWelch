@@ -15,7 +15,7 @@
 
 ## Key Projects:
 
-[Bioinfo_Problems](https://github.com/AnnaGraceWelch/Bioinfo_Problems)
+[Bioinformatics_Problems](https://github.com/AnnaGraceWelch/Bioinfo_Problems)
 
 [Demultiplex](https://github.com/AnnaGraceWelch/Demultiplex)
 
